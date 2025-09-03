@@ -1,13 +1,11 @@
 ﻿using System;
-
+using desafio2;
 class Program
 {
     public static void Main(string[] args)
     {
-        Cinema ingresso = new Cinema(10);
-
-        ingresso.IngressosTotais();
-        ingresso.ComprarIngressos(2);
-        ingresso.IngressosTotais; 
+        Passaro p = new Passaro("Rex", 1.5);
+        p.Descrever();
     }
 }
+
