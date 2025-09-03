@@ -1,0 +1,4 @@
+Desafio 3
+
+Boa tarde, peço para que crie um código na linguagem C#, criação de um sistema de reserva de hotel com quartos até número 305, preço por noite R$ 200, E com 2 hospedes por quarto.
+Esse sistema deve permitir acessar e modificar os dados das reservas, com verificação de preço por quarto. Se possível indique comentários para especificar cada parte e com dicas de boas práticas
